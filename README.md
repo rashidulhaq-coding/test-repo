@@ -42,12 +42,6 @@ A step-by-step series of examples that tell you how to get a development environ
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space.
 
-## Contributing
-
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-Please see `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
