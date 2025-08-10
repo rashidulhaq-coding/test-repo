@@ -41,7 +41,6 @@ A step-by-step series of examples that tell you how to get a development environ
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space.
-
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
